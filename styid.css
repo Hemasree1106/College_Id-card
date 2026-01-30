@@ -1,0 +1,126 @@
+.container{
+    /* gap: 50px; */
+    border: 2px solid black;
+    height: 350px;
+    width: 510px;
+    overflow: auto;
+    text-align: justify;
+    padding: 10px;
+    display:inline-block;
+    /*position: relative; */
+    /* display: inline-block; */
+}
+.college-logo{
+    position: absolute;
+    width:50px;
+    height: 50px;
+    float: left;
+    top:15px;
+    left: 10px;
+    border:none !important;
+    border-radius: 0;
+}
+.nba-logo{
+    position: absolute;
+    width:45px;
+    height: 45px;
+    top:70px;
+    left: 10px;
+    border:none !important;
+    border-radius: 0;
+}
+.naac-logo{
+    position: absolute;
+    width:45px;
+    height: 45px;
+    top:40px;
+    right: 1000px;
+    border:none !important;
+    border-radius: 0;
+}
+.college{
+    text-align: center;
+    color: purple;
+    margin: 0;
+   
+}
+.heading{
+    text-align: center;
+    margin: 0;
+}
+h5{
+    display: inline-block;
+    margin: 0;
+}
+mark{
+    background-color: green;
+    color: white;
+}
+h3{
+    color: red;
+    margin: 5px;
+}
+.details{
+    /* float: right; */
+    margin: 5px;
+    
+}
+.details span{
+    color: blue;
+}
+.details .mobile{
+    color: #c71585;
+}
+
+p{
+    margin: 5px;
+    font-size: 18px;
+}
+.scanner-img{
+    position: absolute;
+    width:80px;
+    height: 80px;
+    float: left;
+    top:150px;
+    right: 1000px;
+    border:none !important;
+}
+.address{
+    text-align: center;
+    font-size: bold;
+    margin-top: 20px;
+    font-size: 16px;
+    color: deeppink;
+}
+img{    
+    float: left;
+    margin-right: 15px;
+    width: 110px;
+    height: 150px;
+    border-radius: 20%;
+    border: 2px solid black;
+    /* object-fit: cover; */
+}
+.sign-area b{
+    right: 1000px;
+    text-align: center;
+    top: 340px;
+    left: 440px;
+    
+}
+.signature-img{
+    position: relative;
+    width:70px;
+    height: 70px;
+    float:right;
+    bottom:80px;
+    left: 1px;
+    border:none;
+}
+.principal{
+    float: right;
+    bottom:310px;
+    font-size: 18px;
+   position:absolute;
+
+}
